@@ -6,8 +6,7 @@ I'm Rafael Fernandes, a Senior Full Stack Developer with over a decade of experi
 ### **Connect with me:**
 
 <p align="left">
-<a href="https://linkedin.com/in/rafaelfernandesbrgo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_with_text.svg" alt="rafaelfernandesbrgo" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/rafaelfernandesbrgo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="rafaelfernandesbrgo" height="30" width="40"/></a>
 </p>
 
 ---
