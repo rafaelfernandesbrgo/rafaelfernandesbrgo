@@ -1,6 +1,5 @@
 <h1 align="left">Hi! I'm Rafael Fernandes 👋</h1>
-
-### I'm Rafael Fernandes, a Senior Full Stack Developer with over a decade of experience in software development and engineering. I specialize in building robust and scalable solutions using modern technologies such as TypeScript, JavaScript, React, and Node.js.
+I'm Rafael Fernandes, a Senior Full Stack Developer with over a decade of experience in software development and engineering. I specialize in building robust and scalable solutions using modern technologies such as TypeScript, JavaScript, React, and Node.js.
 
 ---
 
