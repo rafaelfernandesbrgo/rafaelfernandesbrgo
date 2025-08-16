@@ -12,8 +12,6 @@
 
 * **JavaScript** 📜
 * **TypeScript** 💡
-* **PHP** 🐘
-* **.NET** 💻
 
 #### **Frontend Development**
 
@@ -31,6 +29,8 @@
 * **TypeORM** 📦
 * **Sequelize** 🔩
 * **Firebase** 🔥
+* **.NET** 💻
+* **PHP** 🐘
 
 #### **Mobile Development**
 
