@@ -12,10 +12,10 @@ I'm Rafael Fernandes, a Senior Full Stack Developer with over a decade of experi
 ---
 
 ### **Programming Languages**
-* **TypeScript** 💡
-* **JavaScript** 📜
-* **PHP** 🐘
-* **.NET** 💻
+* TypeScript 💡
+* JavaScript 📜
+* PHP 🐘
+* .NET 💻
 
 ### **Frontend Development**
 * **React** ⚛️
