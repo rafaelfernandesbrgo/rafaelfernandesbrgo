@@ -11,15 +11,13 @@ I'm Rafael Fernandes, a Senior Full Stack Developer with over a decade of experi
 
 ---
 
-### **Skills & Technologies**
-
-#### **Programming Languages**
+### **Programming Languages**
 * **TypeScript** 💡
 * **JavaScript** 📜
 * **PHP** 🐘
 * **.NET** 💻
 
-#### **Frontend Development**
+### **Frontend Development**
 * **React** ⚛️
 * **Next.js** ➡️
 * **Angular** 🅰️
@@ -28,23 +26,23 @@ I'm Rafael Fernandes, a Senior Full Stack Developer with over a decade of experi
 * **CSS** 🎨
 * **Bootstrap** 👟
 
-#### **Mobile Development**
+### **Mobile Development**
 * **React Native** 📱
 
-#### **Backend Development**
+### **Backend Development**
 * **Node.js** 🟢
 * **TypeORM** 📦
 * **Sequelize** 🔩
 * **Firebase** 🔥
 
-#### **Databases**
+### **Databases**
 * **MySQL** 🐬
 * **SQL Server** 📊
 * **PostgreSQL** 🐘
 * **MongoDB** 🍃
 * **Redis** 🚀
 
-#### **DevOps & Tools**
+### **DevOps & Tools**
 * **Docker** 🐳
 * **Docker Compose** 🐳
 * **Git/GitHub** 🐙
