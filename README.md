@@ -18,37 +18,37 @@ I'm Rafael Fernandes, a Senior Full Stack Developer with over a decade of experi
 * .NET 💻
 
 ### **Frontend Development**
-* **React** ⚛️
-* **Next.js** ➡️
-* **Angular** 🅰️
-* **Redux** ⚛️
-* **HTML** 🌐
-* **CSS** 🎨
-* **Bootstrap** 👟
+* React ⚛️
+* Next.js ➡️
+* Angular 🅰️
+* Redux ⚛️
+* HTML 🌐
+* CSS*🎨
+* Bootstrap👟
 
 ### **Mobile Development**
-* **React Native** 📱
+* React Native📱
 
 ### **Backend Development**
-* **Node.js** 🟢
-* **TypeORM** 📦
-* **Sequelize** 🔩
-* **Firebase** 🔥
+* Node.js 🟢
+* TypeORM📦
+* Sequelize🔩
+* Firebase🔥
 
 ### **Databases**
-* **MySQL** 🐬
-* **SQL Server** 📊
-* **PostgreSQL** 🐘
-* **MongoDB** 🍃
-* **Redis** 🚀
+* MySQL🐬
+* SQL Server 📊
+* PostgreSQL🐘
+* MongoDB🍃
+* Redis 🚀
 
 ### **DevOps & Tools**
-* **Docker** 🐳
-* **Docker Compose** 🐳
-* **Git/GitHub** 🐙
+* Docker 🐳
+* Docker Compose 🐳
+* Git/GitHub 🐙
 
 #### **Other**
-* **VBA** 📝
+* VBA 📝
 
 ---
 
