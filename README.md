@@ -1,6 +1,6 @@
 <h1 align="left">Hi! I'm Rafael Fernandes 👋</h1>
 
-### Brazilian engineer with over a decade of experience in software development and software engineering.
+### I'm Rafael Fernandes, a Senior Full Stack Developer with over a decade of experience in software development and engineering. I specialize in building robust and scalable solutions using modern technologies such as TypeScript, JavaScript, React, and Node.js.
 
 ---
 
@@ -56,8 +56,6 @@
 ---
 
 ### **Languages and Tools:**
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
