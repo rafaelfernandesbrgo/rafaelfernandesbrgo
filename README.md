@@ -15,8 +15,8 @@
 ### **Skills & Technologies**
 
 #### **Programming Languages**
-* **JavaScript** 📜
 * **TypeScript** 💡
+* **JavaScript** 📜
 * **PHP** 🐘
 * **.NET** 💻
 
@@ -24,19 +24,19 @@
 * **React** ⚛️
 * **Next.js** ➡️
 * **Angular** 🅰️
+* **Redux** ⚛️
 * **HTML** 🌐
 * **CSS** 🎨
 * **Bootstrap** 👟
-* **Redux** ⚛️
+
+#### **Mobile Development**
+* **React Native** 📱
 
 #### **Backend Development**
 * **Node.js** 🟢
 * **TypeORM** 📦
 * **Sequelize** 🔩
 * **Firebase** 🔥
-
-#### **Mobile Development**
-* **React Native** 📱
 
 #### **Databases**
 * **MySQL** 🐬
